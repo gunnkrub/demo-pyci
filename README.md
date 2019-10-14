@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/gunnkrub/demo-pyci.svg?branch=master)](https://travis-ci.com/gunnkrub/demo-pyci)
 Continuous Integration Demo
 ============================
 
